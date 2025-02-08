@@ -15,6 +15,7 @@
 <a href="https://www.hackerrank.com/profile/deepankarsingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepankarsingh1" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
@@ -67,4 +68,4 @@
 
 
 ## Here's my contribution graph
-![snake gif](https://github.com/rhythima/deepankar0611/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/deepankar0611/blob/output/github-contribution-grid-snake.gif)
