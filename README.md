@@ -60,11 +60,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepankar0611&show_icons=true&locale=en&layout=compact" alt="deepankar0611" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&locale=en" alt="deepankar0611" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepankar0611&" alt="deepankar0611" /></p>
+### 📊 GitHub Stats
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankar0611&layout=compact&theme=nightowl" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepankar0611&theme=nightowl" alt="GitHub Streak" />
+</div>
 
 
 ## Here's my contribution graph
