@@ -69,7 +69,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/deepankar0611/RTSP_Video_Player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=RTSP_Video_Player&theme=nightowl" height="125" alt="RTSP_Video_Player" /></a>
-  <a href="https://github.com/deepankar0611/Deepankar-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=Deepankar-Portfolio&theme=nightowl" height="125" alt="Deepankar-Portfolio" /></a>
+  <a href="https://github.com/deepankar0611/hotel-booking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=hotel-booking&theme=nightowl" height="125" alt="hotel-booking" /></a>
 </p>
 
 ---
