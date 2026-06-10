@@ -1,43 +1,54 @@
-<h1 align="center">Hi 👋, I'm Deepankar Singh</h1>
+<!-- Header banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Deepankar%20Singh&fontColor=ffffff&fontSize=48&desc=Backend%20Developer%20%E2%80%A2%20Scalable%20Systems%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
 <p align="center">
   <a href="https://github.com/deepankar0611">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Android+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Flutter+%26+Kotlin+Enthusiast;Building+mobile+apps+%26+learning+every+day" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Redis;Scaling+platforms+for+100K%2B+daily+users;Designing+fast%2C+reliable+REST+APIs" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepankar0611&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://deepankar0611.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/deepankar0611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.hackerrank.com/profile/deepankarsingh1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="mailto:deepankarsingh1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=deepankar0611&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+### ⚡ About Me
 
-- 🔭 I'm an **Android Developer** building native and cross-platform mobile apps
-- 🌱 Currently leveling up with **Flutter** and modern app architecture
-- 💬 Ask me about **Android, Kotlin, Flutter, Firebase**
-- 📫 Reach me at **deepankarsingh1@gmail.com**
-- ⚡ Fun fact: I love turning ideas into apps that ship
+- 🔭 Backend Developer **@ SpatialChat** — building scalable community platforms
+- 🚀 Scaling backend services for a platform serving **100K+ daily active users**
+- ⚙️ I live in **Node.js, Express, MongoDB, Redis & TypeScript**
+- 🎓 **MCA** graduate | 💬 Ask me about **APIs, system design & backend scaling**
+- 🌐 Portfolio → **[deepankar0611.github.io/Portfolio](https://deepankar0611.github.io/Portfolio/)**
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,cpp,firebase,sqlite,html,css,figma,postman" alt="tech stack" />
-</p>
+**Backend & Languages**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,js,cpp,kotlin,dart" alt="backend" />
+
+**Databases & Caching**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" alt="databases" />
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=gcp,docker,nginx,linux,git,react,nextjs" alt="devops" />
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankar0611&layout=compact&theme=nightowl&langs_count=8" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankar0611&layout=compact&theme=nightowl&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -56,4 +67,4 @@
 
 ---
 
-<p align="center"><i>⭐️ From <a href="https://github.com/deepankar0611">deepankar0611</a></i></p>
+<p align="center"><i>⭐️ Let's build something fast and reliable — <a href="https://github.com/deepankar0611">deepankar0611</a></i></p>
