@@ -1,72 +1,59 @@
-<h1 align="center">Hi 👋, I'm Deepankar</h1>
-<h3 align="center">An Android Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Deepankar Singh</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepankar0611&label=Profile%20views&color=0e75b6&style=flat" alt="deepankar0611" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepankar0611" alt="deepankar0611" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **deepankarsingh1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/deepankar0611/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepankar0611" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/deepankarsingh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepankarsingh1" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/deepankar0611">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Android+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Flutter+%26+Kotlin+Enthusiast;Building+mobile+apps+%26+learning+every+day" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=deepankar0611&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/deepankar0611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/deepankarsingh1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="mailto:deepankarsingh1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I'm an **Android Developer** building native and cross-platform mobile apps
+- 🌱 Currently leveling up with **Flutter** and modern app architecture
+- 💬 Ask me about **Android, Kotlin, Flutter, Firebase**
+- 📫 Reach me at **deepankarsingh1@gmail.com**
+- ⚡ Fun fact: I love turning ideas into apps that ship
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com/kotlin" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="restapi" width="40" height="40"/> 
-  </a> 
-</p> 
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,python,cpp,firebase,sqlite,html,css,figma,postman" alt="tech stack" />
+</p>
 
-
+---
 
 ### 📊 GitHub Stats
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankar0611&layout=compact&theme=nightowl" alt="Top Languages" />
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankar0611&layout=compact&theme=nightowl&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepankar0611&theme=nightowl" alt="GitHub Streak" />
-</div>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=deepankar0611&theme=nord&no-frame=true&row=1&column=7" alt="trophies" />
+</p>
 
-## Here's my contribution graph
-![snake gif](https://github.com/deepankar0611/blob/output/github-contribution-grid-snake.gif)
+---
+
+### 🐍 Contribution Graph
+
+![snake gif](https://raw.githubusercontent.com/deepankar0611/deepankar0611/output/github-contribution-grid-snake.gif)
+
+---
+
+<p align="center"><i>⭐️ From <a href="https://github.com/deepankar0611">deepankar0611</a></i></p>
