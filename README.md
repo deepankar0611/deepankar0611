@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Deepankar%20Singh&fontColor=ffffff&fontSize=48&desc=Backend%20Developer%20%E2%80%A2%20Scalable%20Systems%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descAlignY=58&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=180&section=header&text=Deepankar%20Singh&fontColor=ffffff&fontSize=50&fontAlignY=38&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -56,7 +56,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepankar0611&theme=nord&no-frame=true&row=1&column=7" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepankar0611&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/deepankar0611/smartt_attendance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=smartt_attendance&theme=nightowl" height="125" alt="smartt_attendance" /></a>
+  <a href="https://github.com/deepankar0611/split_wise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=split_wise&theme=nightowl" height="125" alt="split_wise" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/deepankar0611/RTSP_Video_Player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=RTSP_Video_Player&theme=nightowl" height="125" alt="RTSP_Video_Player" /></a>
+  <a href="https://github.com/deepankar0611/Deepankar-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=deepankar0611&repo=Deepankar-Portfolio&theme=nightowl" height="125" alt="Deepankar-Portfolio" /></a>
 </p>
 
 ---
