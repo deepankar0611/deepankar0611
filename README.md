@@ -10,7 +10,6 @@
 </p>
 
 <p align="center">
-  <a href="https://deepankar0611.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/deepankar0611/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:deepankarsingh1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=deepankar0611&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -24,7 +23,6 @@
 - 🚀 Scaling backend services for a platform serving **100K+ daily active users**
 - ⚙️ I live in **Node.js, Express, MongoDB, Redis & TypeScript**
 - 🎓 **MCA** graduate | 💬 Ask me about **APIs, system design & backend scaling**
-- 🌐 Portfolio → **[deepankar0611.github.io/Portfolio](https://deepankar0611.github.io/Portfolio/)**
 
 ---
 
