@@ -72,6 +72,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepankar0611&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7&line=bb9af7&point=ffffff" alt="activity graph" />
 </p>
 
+<p align="center">
+  <details>
+    <summary><b>📈 &nbsp;Detailed Metrics &nbsp;(includes private &amp; org contributions)</b></summary>
+    <br/>
+    <img src="https://raw.githubusercontent.com/deepankar0611/deepankar0611/main/github-metrics.svg" alt="detailed metrics" />
+  </details>
+</p>
+
 <br/>
 
 <!-- ====== PROJECTS ====== -->
@@ -121,3 +129,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,100:16161e&height=120&section=footer&text=Let's%20build%20something%20fast%20%26%20reliable&fontColor=ffffff&fontSize=18&fontAlignY=70" alt="footer" />
 </p>
+
