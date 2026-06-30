@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/deepankar0611">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%C2%B7+Express+%C2%B7+MongoDB+%C2%B7+Redis;Scaling+platforms+for+100K%2B+daily+users;Designing+fast%2C+reliable+REST+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Express;MongoDB+%C2%B7+PostgreSQL+%C2%B7+Redis+%C2%B7+TypeScript;Scaling+platforms+for+100K%2B+daily+users" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,10 +19,10 @@
 
 ### ⚡ About Me
 
-- 🔭 Backend Developer **@ SpatialChat** — building scalable community platforms
-- 🚀 Scaling backend services for a platform serving **100K+ daily active users**
-- ⚙️ I live in **Node.js, Express, MongoDB, Redis & TypeScript**
-- 🎓 **MCA** graduate | 💬 Ask me about **APIs, system design & backend scaling**
+- 🔭 Full Stack Developer **@ SpatialChat** — building scalable community platforms
+- 🚀 Shipping features end-to-end for a platform serving **100K+ daily active users**
+- ⚙️ I work across **React, Next.js, Node.js, MongoDB & TypeScript**
+- 🎓 **MCA** graduate | 💬 Ask me about **full-stack apps, APIs & system design**
 
 ---
 
@@ -45,8 +45,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=deepankar0611&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepankar0611&layout=compact&theme=nightowl&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepankar0611&theme=nord_dark" alt="profile summary" />
+</p>
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepankar0611&theme=nord_dark" alt="stats" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deepankar0611&theme=nord_dark&utcOffset=5.5" alt="productive time" />
+</p>
+<p align="center">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deepankar0611&theme=nord_dark" alt="repos per language" />
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deepankar0611&theme=nord_dark" alt="most commit language" />
 </p>
 
 <p align="center">
@@ -79,3 +86,4 @@
 ---
 
 <p align="center"><i>⭐️ Let's build something fast and reliable — <a href="https://github.com/deepankar0611">deepankar0611</a></i></p>
+
